@@ -17,7 +17,7 @@
 
 - :telescope: I’m currently working on ModernV by https://modern-gaming.net
   
-- :seedling: I’m currently programming in LUA | JS | <HTML/CSS>
+- :seedling: I’m currently programming in LUA | JAVA | JS | <HTML/CSS>
                                                                                                                                    
  - :seedling: I’m currently learning JS <JavaScript>                                                                                                                          
                                                                                                                                    
